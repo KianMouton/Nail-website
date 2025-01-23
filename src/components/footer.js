@@ -6,7 +6,7 @@ const Footer = () => {
     return (
         <div className='footer'>
             <p>To find out more message me here</p>
-            <a href='jolandasnailsandbeauty@gmail.com'>
+            <a href='mailto:jolandasnailsandbeauty@gmail.com'>
                 <FontAwesomeIcon icon={faEnvelope} size="2x" />
             </a>
             <img src={logo} alt="logo" />
