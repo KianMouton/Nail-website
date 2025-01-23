@@ -16,15 +16,21 @@ const Product = () => {
     return (
         <div className="product">
             <div className='product-container'>
-            <img className='product-image' src={product.image} alt={product.name} />
-            <h1 className='product-name'>{product.name}</h1>
-            <p>R{product.price}</p>
-            <p>{product.description}</p>
-            <p>Each order includes a prep pack with: an acrylic cuticle pusher, alcohol pad, nail file</p>
-            <p>Sizes: small - Xtra long</p>
-            <p>Shapes: Almond, Squire, Round, Coffin, Stilleto</p>
-            <p>Custom designs could be priced between R150 - R200 depending on the order.Message me for more details.</p>
-            <p>How to size nail: Dime method</p>
+                <div className="img-div">
+                <img className='product-image' src={product.image} alt={product.name} />
+                </div>
+                <div className="details-div">
+                    <h1 className='product-name'>{product.name}</h1>
+                    <p>R{product.price}</p>
+                    <p>{product.description}</p>
+                    <p>Each order includes a prep pack with: an acrylic cuticle pusher, alcohol pad, nail file</p>
+                    <p>Sizes: small - Xtra long</p>
+                    <p>Shapes: Almond, Squire, Round, Coffin, Stilleto</p>
+                    <p>Custom designs could be priced between R150 - R200 depending on the order.Message me for more details.</p>
+                </div>
+            </div>
+            <div className='ins-div'>
+            <p>Dime Method Sizing</p>
             <div className='dime-method'>
             <img  src={Dime1} alt='Dime method' />
             <img  src={Dime2} alt='Dime method' />

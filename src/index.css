@@ -120,6 +120,12 @@ a {
   width: 350px;
 }
 
+.ins-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .footer {
   margin-top: 20px;
   text-align: center;
@@ -143,4 +149,53 @@ a {
 .footer img {
   margin-top: 20px;
   width: 350px;
+}
+
+
+/* for screens with a min width of 1000px */
+@media screen and (min-width: 1000px) {
+  .sets-container {
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  .set {
+    margin: 10px;
+  }
+
+  .product-container {
+    flex-direction: row;
+    gap: 20px;
+  }
+
+  .product-image {
+    max-width: 600px;
+  }
+
+  .dime-method img {
+    height: 600px;
+    width: auto; 
+  }
+
+  .instructions {
+    margin-top: 20px;
+    width: 600px;
+  }
+}
+/* for screens with a min width of 1400px */
+@media screen and (min-width: 1400px) {
+  .product-container {
+    flex-direction: row;
+    gap: 50px;
+  }
+
+  .dime-method img {
+    height: 800px;
+    width: auto; 
+  }
+
+  .instructions {
+    margin-top: 20px;
+    width: 800px;
+  }
 }
