@@ -23,10 +23,11 @@ const Product = () => {
                     <h1 className='product-name'>{product.name}</h1>
                     <p>R{product.price}</p>
                     <p>{product.description}</p>
-                    <p>Each order includes a prep pack with: an acrylic cuticle pusher, alcohol pad, nail file</p>
+                    <p>Each order includes a prep pack with: an acrylic cuticle pusher, alcohol pad, nail file and nail glue</p>
                     <p>Sizes: small - Xtra long</p>
                     <p>Shapes: Almond, Squire, Round, Coffin, Stilleto</p>
                     <p>Custom designs could be priced between R150 - R200 depending on the order.Message me for more details.</p>
+                    <p>Shipping method: Pudo</p>
                 </div>
             </div>
             <div className='ins-div'>

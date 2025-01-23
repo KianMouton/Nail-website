@@ -14,43 +14,43 @@ const products = [
       name: "Autumn Elagance",
       image: AutumnElagance,
       price: 120,
-      description: "This set of 10 luxury press-on nails is crafted and designed for a flawless, salon-quality finish in minutes. The set featured here is shaped in [insert shape], and every set is meticulously handmade by me to ensure a perfect fit. Get the perfect, customized nails without the wait!"
+      description: "This set of 10 luxury press-on nails is crafted and designed for a flawless, salon-quality finish in minutes. The set featured here is shaped in Short Squire, and every set is meticulously handmade by me to ensure a perfect fit. Get the perfect, customized nails without the wait!"
    },
    {
       name: "Berry Delight",
       image: BerryDelight,
       price: 120,
-      description: "This set of 10 luxury press-on nails is crafted and designed for a flawless, salon-quality finish in minutes. The set featured here is shaped in [insert shape], and every set is meticulously handmade by me to ensure a perfect fit. Get the perfect, customized nails without the wait!"
+      description: "This set of 10 luxury press-on nails is crafted and designed for a flawless, salon-quality finish in minutes. The set featured here is shaped in Short Almond, and every set is meticulously handmade by me to ensure a perfect fit. Get the perfect, customized nails without the wait!"
    },
    {
       name: "Cupid's Touch",
       image: CupidTouch,
       price: 120,
-      description: "This set of 10 luxury press-on nails is crafted and designed for a flawless, salon-quality finish in minutes. The set featured here is shaped in [insert shape], and every set is meticulously handmade by me to ensure a perfect fit. Get the perfect, customized nails without the wait!"
+      description: "This set of 10 luxury press-on nails is crafted and designed for a flawless, salon-quality finish in minutes. The set featured here is shaped in Medium Squire, and every set is meticulously handmade by me to ensure a perfect fit. Get the perfect, customized nails without the wait!"
    },
    {
       name: "Floral French Fantasy",
       image: FloralFrench,
       price: 120,
-      description: "This set of 10 luxury press-on nails is crafted and designed for a flawless, salon-quality finish in minutes. The set featured here is shaped in [insert shape], and every set is meticulously handmade by me to ensure a perfect fit. Get the perfect, customized nails without the wait!"
+      description: "This set of 10 luxury press-on nails is crafted and designed for a flawless, salon-quality finish in minutes. The set featured here is shaped in Medium Almond, and every set is meticulously handmade by me to ensure a perfect fit. Get the perfect, customized nails without the wait!"
    },
    {
       name: "Midnight Blossom",
       image: MidnightBlossom,
       price: 120,
-      description: "This set of 10 luxury press-on nails is crafted and designed for a flawless, salon-quality finish in minutes. The set featured here is shaped in [insert shape], and every set is meticulously handmade by me to ensure a perfect fit. Get the perfect, customized nails without the wait!"
+      description: "This set of 10 luxury press-on nails is crafted and designed for a flawless, salon-quality finish in minutes. The set featured here is shaped in Long Coffin, and every set is meticulously handmade by me to ensure a perfect fit. Get the perfect, customized nails without the wait!"
    },
    {
       name: "Ocean Breese Elegance",
       image: OceanBreese,
       price: 120,
-      description: "This set of 10 luxury press-on nails is crafted and designed for a flawless, salon-quality finish in minutes. The set featured here is shaped in [insert shape], and every set is meticulously handmade by me to ensure a perfect fit. Get the perfect, customized nails without the wait!"
+      description: "This set of 10 luxury press-on nails is crafted and designed for a flawless, salon-quality finish in minutes. The set featured here is shaped in XL Coffin, and every set is meticulously handmade by me to ensure a perfect fit. Get the perfect, customized nails without the wait!"
    },
    {
       name: "Romantic Blush",
       image: RomanticBlush,
       price: 120,
-      description: "This set of 10 luxury press-on nails is crafted and designed for a flawless, salon-quality finish in minutes. The set featured here is shaped in [insert shape], and every set is meticulously handmade by me to ensure a perfect fit. Get the perfect, customized nails without the wait!"
+      description: "This set of 10 luxury press-on nails is crafted and designed for a flawless, salon-quality finish in minutes. The set featured here is shaped in Long Stilleto, and every set is meticulously handmade by me to ensure a perfect fit. Get the perfect, customized nails without the wait!"
    }
 ]
 

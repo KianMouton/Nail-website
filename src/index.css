@@ -86,6 +86,21 @@ a {
   color: black;
 }
 
+.email-icon {
+  transition: 0.2s ease-in-out;
+}
+
+.email-icon:hover {
+  transform: scale(1.2);
+  cursor: pointer;
+}
+
+.nav-links {
+  display: flex;
+  justify-content: flex-end;
+  gap: 40px;
+}
+
 .product p {
   max-width: 350px;
 }
@@ -151,6 +166,10 @@ a {
   width: 350px;
 }
 
+.footer-links {
+  display: flex;
+  gap: 20px;
+}
 
 /* for screens with a min width of 1000px */
 @media screen and (min-width: 1000px) {
